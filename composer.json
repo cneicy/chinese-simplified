@@ -1,5 +1,5 @@
 {
-  "name": "flarum-lang/chinese-simplified",
+  "name": "cneicy/chinese-simplified",
   "description": "Chinese language pack for Flarum 2021.",
   "keywords": [
     "flarum",
@@ -45,7 +45,7 @@
       "discuss": "https://discuss.flarum.org/d/22690"
     },
     "flarum-locale": {
-      "code": "zh-Hans",
+      "code": "zh",
       "title": "简体中文"
     }
   }
